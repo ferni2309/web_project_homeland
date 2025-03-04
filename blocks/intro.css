@@ -1,0 +1,41 @@
+.intro {
+  display: flex;
+  flex-direction: column;
+  max-width: 990px;
+  margin: 92px auto;
+}
+
+.intro__title {
+  max-width: 830px;
+  font-family: "Inter-Black", Arial, Helvetica, sans-serif;
+  font-size: 54px;
+  line-height: 1;
+  margin: 0;
+}
+
+.intro__paragraph {
+  font-family: "Inter-Regular", Arial, Helvetica, sans-serif;
+}
+
+.intro__paragraph_text_l {
+  margin: 40px 0 10px;
+  max-width: 738px;
+  font-size: 24px;
+  line-height: 1.4;
+}
+
+.intro__paragraph_text_m {
+  display: flex;
+  justify-content: flex-end;
+  max-width: 732px;
+  font-size: 24px;
+  line-height: 1.4;
+  margin: 0 0 32px;
+}
+
+.intro__paragraph_text_s {
+  max-width: 722px;
+  font-size: 16px;
+  line-height: 163%;
+  margin: 0;
+}
