@@ -6,4 +6,4 @@
 
 # https://ferni2309.github.io/web_project_homeland/
 
-si cambio de repositorio
+si cambio, pero a que costo...
